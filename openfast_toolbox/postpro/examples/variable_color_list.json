@@ -1,0 +1,22 @@
+[
+    {
+        "variables": ["Wind1VelX_[m/s]"],
+        "colors": ["salmon"],
+        "linestyles": ["solid"]
+    },
+    {
+        "variables": ["BldPitch1_[deg]", "BldPitch2_[deg]", "BldPitch3_[deg]"],
+        "colors": ["teal", "steelblue", "skyblue"],
+        "linestyles": ["solid", "dashdot", "dashed"]
+    },
+    {
+        "variables": ["GenSpeed_[rpm]"],
+        "colors": ["lightblue"],
+        "linestyles": ["solid"]
+    },
+    {
+        "variables": ["GenPwr_[kW]"],
+        "colors": ["purple"],
+        "linestyles": ["solid"]
+    }
+]
